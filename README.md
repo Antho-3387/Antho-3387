@@ -15,7 +15,7 @@ I'm a first-year computer science student passionate about game development and 
 I enjoy creating mini-games with Unity and Godot to improve my coding, gameplay programming, and problem-solving skills step by step.
 
 Currently learning:
-- C#
+- C / C++ / C#
 - HTML / CSS
 - GDScript
 

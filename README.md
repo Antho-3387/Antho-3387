@@ -32,11 +32,16 @@ Currently learning:
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=cs" height="45" />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=c" height="45" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=godot" height="45" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=unity" height="45" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=github" height="45" />
+  
 </div>
 
 ---
